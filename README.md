@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @STEVEJACHINPENIELURK23CS7078
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on project develpment
+- 💞️ I’m looking to collaborate on software development projects
 
 
 <!---
